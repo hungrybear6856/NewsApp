@@ -1,5 +1,5 @@
+import 'package:basketball_counter_app/Widget/categoryCard.dart';
 import 'package:basketball_counter_app/model/categoryModel.dart';
-import 'package:basketball_counter_app/wdjet/categoryCard.dart';
 import 'package:flutter/cupertino.dart';
 
 class CatogryListView extends StatelessWidget {

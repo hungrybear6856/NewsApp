@@ -1,5 +1,5 @@
+import 'package:basketball_counter_app/Widget/newTileCard.dart';
 import 'package:basketball_counter_app/model/articalModel.dart';
-import 'package:basketball_counter_app/wdjet/newTileCard.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

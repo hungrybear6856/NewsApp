@@ -1,5 +1,5 @@
+import 'package:basketball_counter_app/Widget/newCardSkeleton.dart';
 import 'package:basketball_counter_app/service/news_service.dart';
-import 'package:basketball_counter_app/wdjet/newCardSkeleton.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

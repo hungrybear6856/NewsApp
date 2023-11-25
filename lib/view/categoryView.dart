@@ -1,4 +1,4 @@
-import 'package:basketball_counter_app/wdjet/newListViewBulider.dart';
+import 'package:basketball_counter_app/Widget/newListViewBulider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
